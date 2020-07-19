@@ -1,0 +1,17 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "new",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm-run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016\u0016https://github.com/pavansai007/new.git"
+  },
+  "author": "pavansai",
+  "license": "ISC"
+}
